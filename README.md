@@ -29,7 +29,7 @@
 * [2021/04/01 - 2nd agenda](/20210401-2nd-agenda.md) 
 * [2021/03/25 - 1st agenda](/20210325-1st-agenda.md) 
 
-* * [Clubhouse 2021/04/08 이벤트로 바로가기](https://raw.githubusercontent.com/jup014/AIML-in-Medicine-club/main/AIMLinMed.ics)
+* [Clubhouse 매주 이벤트를 캘린더에 추가하기](https://calendar.google.com/event?action=TEMPLATE&tmeid=MTU5Y2hkNmQ4dDRsczVja25qcGY4ZTI4cGhfMjAyMTA0MDhUMTMwMDAwWiBqdXAwMTRAZW5nLnVjc2QuZWR1&tmsrc=jup014%40eng.ucsd.edu&scp=ALL)
 
 ## Club 소개 
 
