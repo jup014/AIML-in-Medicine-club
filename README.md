@@ -29,6 +29,8 @@
 * [2021/04/01 - 2nd agenda](/20210401-2nd-agenda.md) 
 * [2021/03/25 - 1st agenda](/20210325-1st-agenda.md) 
 
+* * [Clubhouse 2021/04/08 이벤트로 바로가기](https://raw.githubusercontent.com/jup014/AIML-in-Medicine-club/main/AIMLinMed.ics)
+
 ## Club 소개 
 
 Welcome! This club is all about the topics of AI/ML technology and applications in Healthcare and Bioinformatics.  We encourage open, candid discussions and debates. Please show your professionalism. 
